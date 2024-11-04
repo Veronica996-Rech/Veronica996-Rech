@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Veronica996-Rech
+- 👀 I’m from a totally bilogical background and interested in machine learning
+- 🌱 I’m currently learning Python and bash scripting
+- 💞️ I’m looking to collaborate on drug discovery projects hanessing molecular docking techniques
+- 📫 How to reach me verarecheal@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Being an indoor person yet loving outdoor activities
